@@ -207,19 +207,18 @@ http://localhost:5173
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Screenshots
+![Registration Page](./screenshots/register.png)
 
-A demo video is recorded to showcase:
-- User authentication
-- Video upload
-- Real-time processing
-- Streaming
-- Filtering
-- Logout
+![Login Page](./screenshots/login.png)
 
-This video is provided separately as part of the submission.
+![Dashboard Overview](./screenshots/dashboard.png)
+
+![Uploaded Video](./screenshots/uploaded-video.png)
 
 ---
+
+
 
 ## 🚫 Deployment Note (Important)
 
@@ -281,3 +280,4 @@ InsightVideo successfully fulfills all the functional and technical requirements
 ---
 
 **Made with ❤️ for Pulse Assignment**
+
